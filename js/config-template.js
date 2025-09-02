@@ -15,12 +15,12 @@ window.firebaseConfig = {
 
 // Example of what the real config should look like:
 // window.firebaseConfig = {
-//     apiKey: "AIzaSyBvOkBwNgEqDmt4ztfk6fiYHI8m2tnprwE",
+//     apiKey: "YOUR_ACTUAL_API_KEY_FROM_FIREBASE",
 //     authDomain: "taskflow-chd8c.firebaseapp.com",
 //     projectId: "taskflow-chd8c", 
 //     storageBucket: "taskflow-chd8c.appspot.com",
-//     messagingSenderId: "123456789012",
-//     appId: "1:123456789012:web:abcdef123456789"
+//     messagingSenderId: "YOUR_ACTUAL_SENDER_ID",
+//     appId: "YOUR_ACTUAL_APP_ID"
 // };
 
 // IMPORTANT NOTES:
