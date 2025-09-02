@@ -4,3 +4,15 @@ firebase-debug.log
 .env
 .DS_Store
 Thumbs.db
+
+# Sensitive config (keep template only)
+js/config.js
+
+# Backup folders
+*_Backup_*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
